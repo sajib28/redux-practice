@@ -8,7 +8,7 @@ function App() {
       <Counter></Counter>
       <Users></Users>
       <div>Sajib Kumar Biswas</div>
-      <div>Sajib Kumar Biswas</div>
+      <div>Sajib Kumar Biswas master</div>
     </div>
   );
 }
